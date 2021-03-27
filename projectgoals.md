@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<p> Title man <p>
+<p> Welcome! <p>
 
 <style>
 
@@ -24,8 +24,8 @@ p {
 </head>
 <body>
 
-<p>My First CSS Example</p>
-<p>This is a paragraph.</p>
+<p>This page is set up to help students navigate online learning.</p>
+<p>We hope these resources can help.</p>
 
 </body>
 </html>
