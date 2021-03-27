@@ -2,11 +2,11 @@
 
 <html>
 
-<title>
+<header>
 
 Welcome!
 
-</title>
+</header>
 
 <body>
 <nav>
