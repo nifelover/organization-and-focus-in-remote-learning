@@ -21,5 +21,5 @@ p {
 </style>
 <body>
 <nav>
-<a href="/projectgoals.html/">project goals</a>|
-<a href="/Guide_to_scheduling_chinese.md/">Chinese version</a> |
+<a href="organization_and_focus_in_remote_learning/projectgoals.html/">project goals</a>|
+<a href="organization_and_focus_in_remote_learning/Guide_to_scheduling_chinese.md/">Chinese version</a> |
