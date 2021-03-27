@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title></title>
+<title>FOORWILE中文</title>
 </head>
 
 <body>
