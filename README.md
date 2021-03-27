@@ -1,4 +1,4 @@
-The is  a project created by high schoolers
+The is  a project created by high schoolers for a Hackathon. This is our first project and none of us learned anything before.
 
 <!DOCTYPE html>
 <html>
@@ -7,6 +7,7 @@ The is  a project created by high schoolers
 </head>
 
 <body>
+<h2> This is our project goals </h2>
 
 <nav>
-<a href="/projectgoals.md/">project_goals</a>
+<a href="/projectgoals.md/">project goals</a>
