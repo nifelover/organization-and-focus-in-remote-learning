@@ -21,4 +21,5 @@ p {
 </style>
 <body>
 <nav>
-<a href="/projectgoals.md/">project goals</a>
+<a href="/projectgoals.md/">project goals</a>|
+<a href="/Guide_to_scheduling_chinese.md/">Chinese version</a> |
