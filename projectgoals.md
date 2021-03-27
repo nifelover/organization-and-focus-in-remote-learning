@@ -3,11 +3,6 @@
 <head>
 <p> Welcome! <p>
 </head>
-<style>
-
-
-  {background-color: rgba(200,137,255,1);}
-
 
 <body style="background-color: rgba(200,137,255,1);">
 
