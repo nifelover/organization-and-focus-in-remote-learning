@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
+<<<<<<< HEAD
 <p> Welcome! <p>
 
+=======
+<p> Title man <p>
+</head>
+>>>>>>> 68e5500e22df486f719b184e2c23b73094fa01ea
 <style>
 
 body {
   background-color: rgba(200,137,255,1);
-
-
 }
 
 h1 {
@@ -21,7 +24,6 @@ p {
   font-size: 20px;
 }
 </style>
-</head>
 <body>
 
 <p>This page is set up to help students navigate online learning.</p>
