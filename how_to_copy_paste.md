@@ -8,7 +8,9 @@
 First, highlight the text you wish to copy by clicking and dragging over it.</p>
 <img src="https://cdn.discordapp.com/attachments/702594897651171451/825436199551238144/Screen_Shot_2021-03-27_at_2.20.38_PM.png" alt="highlight">
 <p> Next, hold down the "control" button. </p>
+
 <img src="https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Screenshots_2020/windows-keyboard-ctrl-key-EN.jpg" alt="control button">
+
 <p> To copy the text, press the "c" key while still holding "control." </p>
 <img src="https://www.tech-recipes.com/wp-content/uploads/2018/12/Control-CTRL-C-for-Copy.png" alt="control c">
 <p> Release both keys. Navigate to where you want to paste the text and click exactly where you want it to go. </p>
