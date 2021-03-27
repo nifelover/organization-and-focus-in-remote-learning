@@ -35,6 +35,7 @@ Tap and hold one word of the text you wish to copy. This may require double tapp
 <img src="https://cdn.discordapp.com/attachments/702594897651171451/825405291951554600/image1.png" alt="paste menu">
 <p> Select "paste" and you should see your text appear where you want! </p>
 <img src="https://cdn.discordapp.com/attachments/822981196505153577/825451936618119188/image0.png" alt="paste"> </p>
+
 </body>
 
 <html>
