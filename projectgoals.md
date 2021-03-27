@@ -2,7 +2,7 @@
 <html>
 <head>
 <p> Welcome! <p>
-</head>
+
 <style>
 
 
@@ -10,6 +10,7 @@
 
 </style>
 <body>
+</head>
 
 <p>This page is set up to help students navigate online learning.</p>
 <p>We hope these resources can help.</p>
