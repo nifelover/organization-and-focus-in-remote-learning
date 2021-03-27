@@ -3,11 +3,11 @@ The is  a project created by high schoolers for a Hackathon. This is our first p
 <!DOCTYPE html>
 <html>
 <head>
-<title> this is the read me </title>
+<title>  </title>
 </head>
 
 <body>
-<h2> This is our project goals </h2>
-
+<h2> This is the read me </h2>
+<p> This is our project goals <>
 <nav>
 <a href="/projectgoals.md/">project goals</a>
