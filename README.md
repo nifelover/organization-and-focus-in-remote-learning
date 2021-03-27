@@ -8,6 +8,6 @@ The is  a project created by high schoolers for a Hackathon. This is our first p
 
 <body>
 <h2> This is the read me </h2>
-<p> This is our project goals <>
+<p> This is our project goals </p>
 <nav>
 <a href="/projectgoals.md/">project goals</a>

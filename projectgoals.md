@@ -2,13 +2,11 @@
 <html>
 <head>
 <p> Title man <p>
-
+</head>
 <style>
 
 body {
   background-color: rgba(200,137,255,1);
-
-
 }
 
 h1 {
@@ -21,7 +19,6 @@ p {
   font-size: 20px;
 }
 </style>
-</head>
 <body>
 
 <p>My First CSS Example</p>
